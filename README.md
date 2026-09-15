@@ -42,12 +42,12 @@ It'll ask for evaporator and condenser temps in °C, then print out the pressure
 Enter the evaporator temperature in Celsius: -10
 Enter the condenser temperature in Celsius: 45
 
-Evaporator pressure: 200.63 kPa
-Condenser pressure: 1160.20 kPa
-State 1 enthalpy: 392.71 J/kg
-State 2 enthalpy: 435.19 J/kg
-State 3 enthalpy: 264.15 J/kg
-COP: 3.02
+Evaporator pressure: 200.60 kPa
+Condenser pressure: 1159.92 kPa
+State 1 enthalpy: 392664.91 J/kg
+State 2 enthalpy: 429271.73 J/kg
+State 3 enthalpy: 263942.93 J/kg
+COP: 3.52
 ```
 
 (Replace with your own actual output — numbers change depending on the temps you enter.)
